@@ -3,6 +3,7 @@ body * {
     margin: 0;
     padding: 0;
     vertical-align: top;
-    box-sizing: border-box;
+    box-sizing: border-box; 
+    /* elemento plotis (width) = turinys + padding + border  */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
